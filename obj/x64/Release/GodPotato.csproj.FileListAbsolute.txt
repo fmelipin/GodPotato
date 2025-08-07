@@ -1,0 +1,5 @@
+C:\Users\franc\Desktop\OSEP\GodPotato-main\obj\x64\Release\GodPotato.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\OSEP\GodPotato-main\obj\x64\Release\GodPotato.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\OSEP\GodPotato-main\bin\x64\Release\GodPotato.exe.config
+C:\Users\franc\Desktop\OSEP\GodPotato-main\bin\x64\Release\GodPotato.exe
+C:\Users\franc\Desktop\OSEP\GodPotato-main\obj\x64\Release\GodPotato.exe
